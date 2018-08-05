@@ -5,5 +5,6 @@
  * Stack, Queeue, Tree, Graph
 ## React
  * Tutorial
- * React online lectural
+ * Install
+ * React Online Lecture
  
